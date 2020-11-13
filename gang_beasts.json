@@ -9,8 +9,8 @@
     "inter_setting_new" : "",
     "banner_main_new" : "",
     "inter_main_new" : "",
-    "onlyAdmod": true,
-    "onlyFB": false,
+    "onlyAdmod": false,
+    "onlyFB": true,
     "fb_banner": "",
     "fb_inter": ""
   }, 
